@@ -322,11 +322,11 @@ body {
   font-style: normal;
 }
 .email {
-  color: var(--shadow-grey-color);
+  color: var(--alpha-grey-color);
   text-decoration: none;
 }
 .phone {
-  color: var(--shadow-grey-color);
+  color: var(--alpha-grey-color);
   text-decoration: none;
 }
 .email:focus,
