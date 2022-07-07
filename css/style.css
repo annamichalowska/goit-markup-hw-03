@@ -111,22 +111,19 @@ body {
   margin-right: 452px;
 }
 .front-service {
-  display: flex;
-  justify-content: center;
   color: var(--white-color);
   background-color: var(--blue-color);
   box-shadow: 0px 4px 4px var(--alpha-dark-grey-color);
   border-radius: 4px;
-  width: 200px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 15px 42px;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.875;
-  align-items: center;
+  /* align-items: center; */
   letter-spacing: 0.06em;
   margin-left: 700px;
   text-decoration: none;
+  cursor: pointer;
 }
 .description-index {
   display: flex;
@@ -289,9 +286,7 @@ body {
   color: var(--white-color);
   background-color: var(--dark-grey-color);
   padding-top: 60px;
-  /* padding-left: 215px; */
   padding-bottom: 60px;
-  /* width: 1385px; */
 }
 .logo-second {
   font-size: 26px;
