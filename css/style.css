@@ -165,12 +165,6 @@ body {
   display: flex;
   justify-content: space-between;
 }
-.profession img {
-  padding-left: 30px;
-}
-.profession img:nth-child(1) {
-  padding-left: 0;
-}
 .team {
   background-color: var(--almost-white-color);
   padding-bottom: 94px;
