@@ -52,7 +52,6 @@ body {
   justify-content: space-between;
 }
 .logo-first {
-  display: flex;
   font-size: 26px;
   font-family: Raleway;
   text-decoration: none;
