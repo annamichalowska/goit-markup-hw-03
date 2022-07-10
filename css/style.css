@@ -109,8 +109,8 @@ body {
   text-transform: uppercase;
   padding-bottom: 30px;
   padding-top: 200px;
-  margin-left: 452px;
-  margin-right: 452px;
+  margin: auto;
+  width: 696px;
 }
 .front-service {
   color: var(--white-color);
