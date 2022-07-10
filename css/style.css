@@ -31,7 +31,9 @@ body {
 }
 .container {
   width: 1200px;
-  margin-left: 215px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: auto;
 }
 .section {
   padding-top: 94px;
