@@ -98,7 +98,9 @@ body {
 .front-item {
   background-color: var(--dark-grey-color);
   color: var(--white-color);
+  padding-top: 200px;
   padding-bottom: 200px;
+  margin: auto;
 }
 .front-item-description {
   font-weight: 900;
@@ -108,7 +110,6 @@ body {
   letter-spacing: 0.06em;
   text-transform: uppercase;
   padding-bottom: 30px;
-  padding-top: 200px;
   margin: auto;
   width: 696px;
 }
@@ -122,9 +123,13 @@ body {
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.06em;
-  margin-left: 700px;
   text-decoration: none;
   cursor: pointer;
+}
+.front-item .container {
+  margin: auto;
+  display: block;
+  text-align: center;
 }
 .description-index {
   display: flex;
